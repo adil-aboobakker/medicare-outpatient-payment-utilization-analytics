@@ -1,0 +1,29 @@
+apc,avg_payment,avg_payment_rank,estimated_total_payments,total_payment_rank,total_services,volume_rank
+0634 - Hospital Clinic Visits,94.52,24,2292749147.4,1,23867894,1
+0377 - Level II Cardiac Imaging,1088.1,5,803495151.63,2,737426,5
+0269 - Level I Echocardiogram Without Contrast,404.95,9,749503371.83,3,1831517,2
+0207 - Level III Nerve Injections,598.63,7,426799178.44,4,718401,6
+0336 - Magnetic Resonance Imaging and Magnetic Resonance Angiography without Contrast,276.01,15,284040825.37,5,1024061,4
+0267 - Level III Diagnostic and Screening Ultrasound,175.05,19,259046900.05,6,1456880,3
+0015 - Level II Debridement & Destruction,131.82,20,88187257.38,7,657708,8
+0204 - Level I Nerve Injections,197.84,18,72070365.73,8,369279,11
+0203 - Level IV Nerve Injections,1253.99,3,66530697.2,9,53249,17
+0369 - Level II Pulmonary Tests,225.75,16,65382660.22,10,285151,12
+0270 - Level II Echocardiogram Without Contrast,572.99,8,55328426.31,11,95637,14
+0020 - Level II Excision/ Biopsy,794.38,6,50281340.71,12,62688,16
+0632 - Level 2 Examinations & Related Services,102.48,22,49860258.68,13,461860,10
+0265 - Level I Diagnostic and Screening Ultrasound,87.33,25,49675626.51,14,555419,9
+0231 - Level III Eye Tests & Treatments,317.22,13,34682266.34,15,108696,13
+0690 - Level I Electronic Analysis of Devices,33.93,28,23463313.05,16,676761,7
+0206 - Level II Nerve Injections,351.58,12,19484885.16,17,52423,18
+0074 - Level IV Endoscopy Upper Airway,1920.41,1,15762852.57,18,8131,25
+0073 - Level III Endoscopy Upper Airway,1170.32,4,8580833.18,19,7381,26
+0012 - Level I Debridement & Destruction,86.39,26,6675344.36,20,75659,15
+0019 - Level I Excision/ Biopsy,356.12,11,4839318.54,21,13769,22
+0698 - Level II Eye Tests & Treatments,97.84,23,4236688.49,22,43104,20
+0692 - Level II Electronic Analysis of Devices,121.41,21,4134958.9,23,33444,21
+0096 - Level II Noninvasive Physiologic Studies,315.35,14,3125550.22,24,9990,24
+"0209 - Level II Extended EEG, Sleep, and Cardiovascular Studies",216.85,17,2481655.07,25,11356,23
+0631 - Level 1 Examinations & Related Services,46.82,27,2422752.09,26,52200,19
+0633 - Level 3 Examinations & Related Services,369.67,10,958964.3,27,2551,27
+0017 - Level IV Debridement & Destruction,1302.3,2,384631.87,28,272,28
